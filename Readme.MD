@@ -66,17 +66,13 @@
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<div align="center">
+![](https://github-readme-stats.shion.dev/api?username=Rushav717&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=true)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rushav717&show_icons=true&theme=tokyonight" height="180em"/>
+![](https://streak-stats.demolab.com/?user=Rushav717&theme=cobalt2&hide_border=true)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rushav717&theme=tokyonight" height="180em"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushav717&layout=compact&theme=tokyonight"/>
-
-</div>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rushav717&theme=cobalt2&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
