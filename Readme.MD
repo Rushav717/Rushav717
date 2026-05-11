@@ -94,13 +94,13 @@
 
 ---
 
-# 🐍 GitHub Contribution Snake
+### 🐍 GitHub Contribution Snake
 
-<div align="center">
+<br clear="both">
 
-![snake animation](https://raw.githubusercontent.com/Rushav717/Rushav717/snake-output/snake.svg)
+<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/snake-output/snake.svg" alt="Snake animation" />
 
-</div>
+###
 
 ---
 
