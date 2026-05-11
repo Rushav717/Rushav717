@@ -1,19 +1,114 @@
 <div align="center">
-  <img src="https://github.com/Rushav717/Rushav717/blob/main/git_banner.jpg" alt="GitHub Banner" width="800"/>
+  <img src="https://github.com/Rushav717/Rushav717/blob/main/git_banner.jpg" alt="GitHub Banner" width="100%" />
 </div>
 
+<h1 align="center">Hi 👋, I'm Rushav Chatraj</h1>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rushav-chatraj) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rushhav182@gmail.com) 
+<h3 align="center">AWS DevOps Engineer | Cloud & Automation Enthusiast</h3>
 
-# 💻 Tech Stack:
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Alpine.js](https://img.shields.io/badge/alpinejs-white.svg?style=for-the-badge&logo=alpinedotjs&logoColor=%238BC0D0) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Rushav717&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Rushav717&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rushav717&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+🚀 DevOps | AWS | Kubernetes | Docker | Jenkins | Terraform | Ansible | CI/CD | Linux | Shell Scripting
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Rushav717&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Rushav717&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/rushav-chatraj" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rushhav182@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 💼 5+ Years of IT Experience
+- ☁️ 3+ Years of Hands-on DevOps Experience
+- 🚀 Skilled in AWS, Kubernetes, Docker, Terraform, Jenkins & CI/CD
+- 📈 Improved deployment efficiency and infrastructure automation across enterprise projects
+- 🔍 Passionate about Cloud Automation, DevSecOps, Monitoring & SRE Practices
+
+---
+
+# 💻 Tech Stack
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white)
+
+### 💻 Programming & Scripting
+![Bash](https://img.shields.io/badge/Bash_Scripting-121011?style=for-the-badge&logo=gnubash&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+### 📊 Monitoring & Security
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
+
+### 🗄️ Databases & Tools
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rushav717&show_icons=true&theme=tokyonight" height="180em"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rushav717&theme=tokyonight" height="180em"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushav717&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 💼 Career Snapshot
+
+### 🏢 Stratosphere IT Services Private Limited — AWS DevOps Engineer
+- Automated infrastructure provisioning using Terraform and managed Kubernetes deployments on AWS.
+- Built CI/CD pipelines and integrated DevSecOps practices for secure deployments.
+- Improved scalability, deployment automation, and operational efficiency.
+
+### 🏢 LTI Mindtree — DevOps Engineer
+- Led microservices onboarding and CI/CD modernization initiatives.
+- Worked extensively with Jenkins, GitHub Actions, Kubernetes, and Helm.
+- Improved observability, monitoring, and AWS auto-scaling solutions.
+
+### 🏢 Tata Consultancy Services (TCS) — Senior Test Engineer
+- Managed QA and AEM testing activities using Azure DevOps and Visual Studio.
+- Performed functional, regression, integration, browser, and accessibility testing.
+- Supported defect analysis, UAT activities, and quality assurance processes.
+
+---
+
+# 🐍 GitHub Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/Rushav717/snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ "Automating today for a scalable tomorrow."
+
+</div>
