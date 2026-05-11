@@ -10,10 +10,6 @@
 🚀 DevOps | AWS | Kubernetes | Docker | Jenkins | Terraform | Ansible | CI/CD | Linux | Shell Scripting
 </p>
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Rushav717&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
-
 ---
 
 ## 🌐 Connect With Me
@@ -97,7 +93,7 @@
 ### 🐍 GitHub Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/Haripalepu/snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://github.com/Rushav717/snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </div>
 
 ###
