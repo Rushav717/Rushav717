@@ -95,6 +95,7 @@
 ---
 
 # 🐍 GitHub Contribution Snake
+
 <div align="center">
   <img src="https://github.com/Rushav717/snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </div>
