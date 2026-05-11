@@ -98,7 +98,7 @@
 
 <div align="center">
 
-![snake animation](https://github.com/Rushav717/Rushav717/blob/snake-output/snake.svg)
+![snake animation](https://raw.githubusercontent.com/Rushav717/Rushav717/snake-output/snake.svg)
 
 </div>
 
