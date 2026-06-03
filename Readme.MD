@@ -29,7 +29,7 @@
 ## 👨‍💻 About Me
 
 - 💼 5+ Years of IT Experience
-- ☁️ 3+ Years of Hands-on DevOps Experience
+- ☁️ 4+ Years of Hands-on DevOps Experience
 - 🚀 Skilled in AWS, Kubernetes, Docker, Terraform, Jenkins & CI/CD
 - 📈 Improved deployment efficiency and infrastructure automation across enterprise projects
 - 🔍 Passionate about Cloud Automation, DevSecOps, Monitoring & SRE Practices
